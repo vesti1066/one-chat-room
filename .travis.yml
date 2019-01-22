@@ -8,6 +8,6 @@ before_script:
 - sleep 5
 deploy:
   provider: heroku
-  app: ad-john-doe-chat
+  app: ad-steve-maibach-chat
   api_key:
     secure: jJCQyO1u+M4+6IwR6rMpKuAY6kSlzI961zll/ltoM5B/ejCLecL3PsPICaMqZilyIn6fwk/NrAKfQK4+tL6V1Kg8sRqcgag6iICWVYkEliO+TPGtQsjIgHt8BeNpMw0/PWBIx9huhx3NTcamO16mMfpBlT4Q+47uJvZu5cC9h5AXD5wllWZu7bLrHS89jBiRmeIL5GK8oJyprpL+2JG9oymR1OD4qR/IbZFUHDeNLtNXqyxl7h+tG7mnoZmnPG1I4GcqXhJQZHAQOE4oPyKSAQA8zRDIY2ZcKhbnSyi9/3rgvFmvJAxAdjuMtnxgkD4NN/G5Q0oe+ya13vo+UiGoVsU1VU9gNavvOiCSXZaMf/gr8NdTPNj/vxKvoeeah5R8pYEP8iZNzI5F6gGsQAUmEsRTAjpVG9s/c8rVknWQhuK9ekChvT2hb8IpEFA3SKhCFFh3OPANFHiiclCcHEVlUoZII6+b2/wRN6G6+w1fkkuf2pFZqinWXPa2yghPn9p1F0Nusvhutt7yuCiwgS8iFC0vEOjgvECW6+GWcZ/5QYV3nwUM+qd/GKmJYRurrJ/klfx2UQTDbXLT2yQUbsM1HUH1dyzkf6JHUj1auVlndHLNFdstKc95VS8hn9sJ7ZdqZJlThaqkd6dQcNt1GZDUJvvdyg8uv0A2/32P5IrtfKE=
